@@ -1,5 +1,5 @@
-## Flowise Node Sandbox
-This is a fork of original [vm2](https://github.com/patriksimek/vm2) repo. Modifications have been made to resolve CVE.
+## OSMI AI Node Sandbox
+This is a fork of original [vm2](https://github.com/patriksimek/vm2) repo, maintained by OSMI AI. Modifications have been made to resolve CVE vulnerabilities and enhance security.
 
 vm2 is a sandbox that can run untrusted code with whitelisted Node's built-in modules.
 
