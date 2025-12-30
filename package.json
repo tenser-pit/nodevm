@@ -1,6 +1,6 @@
 {
-  "name": "@flowiseai/nodevm",
-  "description": "nodevm is a sandbox that can run untrusted code with whitelisted Node's built-in modules",
+  "name": "@osmi-ai/nodevm",
+  "description": "OSMI AI Node Sandbox - secure Node.js VM that can run untrusted code with whitelisted Node's built-in modules",
   "keywords": [
     "sandbox",
     "prison",
@@ -42,5 +42,5 @@
     "lib": "lib",
     "test": "test"
   },
-  "author": "flowiseai"
+  "author": "OSMI AI"
 }
